@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\bin\Debug\Conjunto.exe.config
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\bin\Debug\Conjunto.exe
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\bin\Debug\Conjunto.pdb
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.Form1.resources
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.exe
+C:\Users\Usuario\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.pdb
